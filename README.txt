@@ -1,0 +1,1 @@
+Bluvanta Digital website. Keep the assets folder beside all HTML files. Pages: index.html, services.html, portfolio.html, about.html, contact.html. Email: bluvantadigital@gmail.com. WhatsApp: +91 63079 99739. Contact form opens an email app; server-side submission is not configured. Portfolio cards are sample concepts.
